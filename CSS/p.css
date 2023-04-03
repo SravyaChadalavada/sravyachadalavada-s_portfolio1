@@ -220,10 +220,10 @@ h2{
 .carousel-control-prev-icon
 {
     background-color:#497174;
-    padding-right:30px;
+    padding-right:50px;
 }
 .carousel-control-next-icon
 {
     background-color:#497174;
-    padding-left:30px;
+    padding:50px;
 }
